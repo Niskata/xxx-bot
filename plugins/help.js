@@ -20,7 +20,7 @@ const help = (infor, client, xxx) =>
       if (prefix == undefined || !useprefix )  prefix = "🔔";
 
       msg =
-        "🤖🤖🤖 *XXX-BOT MENU* 🤖🤖🤖\n\n💡 *Prefix:*  " +
+        "🤖🤖🤖 *Renge Bot MENU* 🤖🤖🤖\n\n💡 *Prefix:*  " +
         c +
       "\n\n" +
         "📗 *General*\n ```help, faq, limit, delete, sourcecode```\n\n" +
