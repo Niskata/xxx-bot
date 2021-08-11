@@ -25,8 +25,8 @@ const stickermaker = (infor,client,xxx) =>
       return `${Math.floor(Math.random() * 10000)}${ext}`;
     };
 
-    var packName = isGroup ? groupName : "xXx";
-    var authorName = "BOT";
+    var packName = isGroup ? groupName : "Renge ~Bot";
+    var authorName = "Owner? @Niskata";
 
     if (arg.includes("pack") == true) {
       packName = "";
